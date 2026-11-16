@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Yandex Music Desktop",
+        "description": "Enter the computer's IP address and port of one running Yandex Music instance.",
+        "data": {
+          "name": "Player name",
+          "host": "Computer IP address",
+          "port": "Port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot find Yandex Music on that IP address and port",
+      "invalid_host": "Enter a valid IP address"
+    },
+    "abort": {
+      "already_configured": "This computer and port are already configured"
+    }
+  }
+}

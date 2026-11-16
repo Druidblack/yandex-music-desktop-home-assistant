@@ -1,0 +1,10 @@
+{
+  "domain": "yandex_music_desktop",
+  "name": "Yandex Music Desktop",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Druidblack/yandex-music-desktop-home-assistant",
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "requirements": []
+}
