@@ -41,7 +41,9 @@ curl.exe http://192.168.1.95:19222/json/list
 Теперь можно устанавливать интеграцию и настраивать.
 
 ![2](https://github.com/Druidblack/yandex-music-desktop-home-assistant/blob/main/img/Снимок22.JPG)
+
 ![3](https://github.com/Druidblack/yandex-music-desktop-home-assistant/blob/main/img/Снимок333.JPG)
+
 ![4](https://github.com/Druidblack/yandex-music-desktop-home-assistant/blob/main/img/Снимок.JPG)
 
 
